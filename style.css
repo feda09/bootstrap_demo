@@ -1,0 +1,49 @@
+
+body{
+    padding-top: 50px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.about{
+    background-color: #f2f2f2;
+}
+
+.brace{
+    border: none;
+    border-top: 5px solid rgb(45, 45, 58);
+    max-width: 250px;
+    margin: 25px auto;
+}
+
+.igray{
+    top: -55px;
+    position: relative;
+    border: 10px solid #f2f2f2;
+    background-color: #f2f2f2;
+    font-size: 30px;
+}
+
+.gallery{
+    background-color: #f2f2f2;
+}
+.iwhite{
+    top: -55px;
+    position: relative;
+    border: 10px solid white;
+    background-color: white;
+    font-size: 30px;
+}
+
+.card img:hover{
+    opacity: 0.8;
+}
+
+
+#gallery a:hover{
+    opacity: 0.8;
+}
+
+#contact{
+    background-color: white;
+}
+
